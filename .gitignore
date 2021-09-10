@@ -2,3 +2,6 @@
 *.log
 proposal.pdf
 *.synctex.gz
+*.bbl
+*.blg
+*.out
